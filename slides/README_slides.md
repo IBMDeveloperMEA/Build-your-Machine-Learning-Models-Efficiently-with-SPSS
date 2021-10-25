@@ -56,15 +56,15 @@ In this workshop, you will learn how to graphically build and evaluate machine l
 **👩‍💻 Who should attend?** <br />
 All Developers interested in Artificial Intelligence & Machine Learning are welcome to attend the webinar. This session is for beginners, you don't require any technical skills.
 
+🍉 Register for the live stream and replay on Crowdcast: <br/>
+- Register for the live stream or to watch the replay: https://www.crowdcast.io/e/build-ml-models
+
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 **🎈 Prerequisites** <br />
 1. Sign up to IBM Cloud using this link: hhttp://ibm.biz/SPSSmod
 2. Get a brief intro to Machine Learning: https://www.youtube.com/watch?v=9gGnTQTYNaE
 3. Check out the hands-on's step by step guide (this is optional just in case you want to check what we will be doing during the workshop): https://developer.ibm.com/tutorials/build-an-ai-model-visually-with-spss-modeler-flow/
-
-🍉 Register for the live stream and replay on Crowdcast: <br/>
-- Register for the live stream or to watch the replay: https://www.crowdcast.io/e/build-ml-models
 
 👩‍💻Resources <br />
 - GitHub Repository - https://ibm.biz/SPSSmodLab 
