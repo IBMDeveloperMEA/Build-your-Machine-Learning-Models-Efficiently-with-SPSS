@@ -146,7 +146,6 @@ All Developers interested in Artificial Intelligence & Machine Learning are welc
 ![center](https://github.com/IBMDeveloperMEA/Build-your-Machine-Learning-Models-Efficiently-with-SPSS/blob/main/images/slide_images/Slide18.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
-
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
