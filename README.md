@@ -1,6 +1,4 @@
-# !!Add workshop title!!
-
-Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io
+# Build a Predictive Machine Learning Model with IBM Modeler Flow
 
 ## Workshop Resources
 
@@ -33,17 +31,11 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
-## About the Workshop - Copied from IBM Developer
-
-## Architecture 
-  
-  Use the architecture on the IBM Developer - else edit it using the patterns 
-  Link for architecture: https://l2fprod.github.io/myarchitecture/ 
-
-## Tutorial - Copied from IBM Developer
-
+## About the Workshop 
 In this tutorial, we will use [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data) to build a predictive machine learning model with [IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler) and decide whether a bank customer will default on a loan. IBM Cloud Pak for Data is an interactive, collaborative, cloud-based environment that allows developers and data scientists to work collaboratively, gain insight from data and build machine learning models.
   
+## Tutorial 
+
 ## Learning objectives
 
 After completing this tutorial, you will learn how to:
