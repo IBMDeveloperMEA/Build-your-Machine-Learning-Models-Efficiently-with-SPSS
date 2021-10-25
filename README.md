@@ -6,13 +6,13 @@
   
 - Hands-On Guide: https://developer.ibm.com/tutorials/build-an-ai-model-visually-with-spss-modeler-flow/
 
-- Slides: <Link>
+- Slides: http://ibmdevelopermea.github.io/Build-your-Machine-Learning-Models-Efficiently-with-SPSS/
 
 - Workshop Replay: https://www.crowdcast.io/e/build-ml-models
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [Your title](#Your-title)  
+1. [Build a Predictive Machine Learning Model with IBM Modeler Flow](#Build-your-Machine-Learning-Models-Efficiently-with-SPSS)  
   
 ## Prerequisites
 1. Sign up to IBM Cloud using this link: https://ibm.biz/SPSSmod
@@ -190,7 +190,7 @@ In Cloud Pak for Data, we use the concept of a project to collect / organize the
 ## Summary
 
 This tutorial demonstrated a small example of creating a predictive machine learning model on IBM SPSS Modeler on IBM Cloud Pak for Data. It went over importing the data into the project and the modeler flow, and preparing the data for modeling, then over the steps of choosing an appropriate algorithm for the data and training a prediction model. The last step explained how to visualize and evaluate the results of the trained model.
-## Sample Outputs
+
 
 ## Workshop Resources
 
@@ -198,7 +198,7 @@ This tutorial demonstrated a small example of creating a predictive machine lear
 
 - Hands-On Guide: https://developer.ibm.com/tutorials/build-an-ai-model-visually-with-spss-modeler-flow/
 
-- Slides: <Link>
+- Slides: http://ibmdevelopermea.github.io/Build-your-Machine-Learning-Models-Efficiently-with-SPSS/
 
 - Workshop Replay: https://www.crowdcast.io/e/build-ml-models
 
@@ -208,8 +208,6 @@ This tutorial demonstrated a small example of creating a predictive machine lear
 - Hands-On Lab(http://ibm.biz/SPSSmodLab)
 - IBM Developer (https://developer.ibm.com/)
 - Meetup (https://www.meetup.com/IBM-Cloud-MEA/)
-
-## Done with the workshop? Here are some things you can try further
 
 ## Workshop Speakers
 Khalil Faraj
