@@ -2,7 +2,7 @@
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: ibm.biz/SPSSmod
+- Login/Sign Up for IBM Cloud: https://ibm.biz/SPSSmod
   
 - Hands-On Guide: https://developer.ibm.com/tutorials/build-an-ai-model-visually-with-spss-modeler-flow/
 
@@ -20,9 +20,9 @@
   
 ### **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](ibm.biz/SPSSmod)
+If you are an existing user please [login to IBM Cloud](https://ibm.biz/SPSSmod)
 
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](ibm.biz/SPSSmod): <br>
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/SPSSmod): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -194,7 +194,7 @@ This tutorial demonstrated a small example of creating a predictive machine lear
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: ibm.biz/SPSSmod
+- Login/Sign Up for IBM Cloud: https://ibm.biz/SPSSmod
 
 - Hands-On Guide: https://developer.ibm.com/tutorials/build-an-ai-model-visually-with-spss-modeler-flow/
 
